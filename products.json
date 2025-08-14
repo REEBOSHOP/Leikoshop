@@ -1,0 +1,10 @@
+{
+  "GCP300 USA": {"price": 16, "quantity": 10, "content": "Account info here"},
+  "GCP300 UK": {"price": 15.5, "quantity": 10, "content": "Account info here"},
+  "Gmail accounts": {"price": 0.2, "quantity": 25, "content": "Gmail info here"},
+  "Outlook mails": {"price": 0.15, "quantity": 30, "content": "Outlook info here"},
+  "Linode random ip": {"price": 8, "quantity": 7, "content": "Linode IP info"},
+  "Azure free trial": {"price": 7, "quantity": 6, "content": "Azure trial info"},
+  "Aws 32vcpu": {"price": 7.5, "quantity": 10, "content": "AWS 32vCPU info"},
+  "Aws 8vcpu": {"price": 5, "quantity": 8, "content": "AWS 8vCPU info"}
+}
